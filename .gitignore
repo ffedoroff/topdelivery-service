@@ -1,3 +1,4 @@
+.idea/
 *.pyc
 *.pyo
 app.db
@@ -7,4 +8,3 @@ include/
 lib/
 local/
 tmp/
-
